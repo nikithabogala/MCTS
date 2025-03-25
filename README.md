@@ -23,4 +23,3 @@ Change this file according to your requirements and run using:
 
 The statistical analyses performed for the comparisons have been captured in the `analysis` folder. We have included a iPython notebook with all the statistical visualizations and a `winPercent.py` file that calculates the win percentage from the console output. 
 
-Contributors : Sachin, Nikitha, Loga, and Tarun
